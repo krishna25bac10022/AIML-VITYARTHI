@@ -28,8 +28,6 @@ The project is built for privacy-focused document intelligence: fast, local, and
 - **Phi-2 / HuggingFace Transformers** — LLM
 - **PaddleOCR** — OCR engine
 - **PyPDF2 / pdfreader** — PDF parsing
-- **Docker** — for containerized deployment
-
 ---
 
 ## 🔧 Installation & Run Guide
@@ -76,6 +74,6 @@ http://localhost:8501
 
 **6.Compare answers with the source document to verify accuracy.**
 
-
+**For image reference access assets**
 
 # **Made by Krishna Arora.**
